@@ -1,0 +1,11 @@
+# Classes compilées
+*.class
+
+# Fichiers système macOS
+.DS_Store
+
+# Config éditeur
+.vscode/
+
+# Fichiers de sauvegarde générés à l'exécution
+*.txt
